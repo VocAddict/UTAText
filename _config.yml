@@ -1,4 +1,17 @@
-title: 'The UTAU Textbook'
-url: https://github.com/VocAddict/UTAU_Textbook
+#Dependencies
+markdown:   kramdon
 
-markdown: kramdon
+#Setup
+title:      'The UTAU Textbook'
+url:        https://github.com/VocAddict/UTAU_Textbook
+
+author: 
+  name:     VocAddict
+  url:      https://github.com/VocAddict
+
+paginate:   5
+
+#Current Version
+version:    0.1
+
+bookviewer: https://philschatz.com/book-viewer
