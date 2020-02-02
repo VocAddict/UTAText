@@ -4,9 +4,10 @@ on:
   pull_request:
     branches: 
       - master
+      - source
   push:
     branches: 
-      - master
+      - source
 
 jobs:
   build:
