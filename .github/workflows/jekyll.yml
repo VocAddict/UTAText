@@ -1,10 +1,6 @@
 name: Jekyll site CI
 
-on: 
-  push:
-    branches:
-    - source
-    - master
+on: [push]
 
 jobs:
   build:
