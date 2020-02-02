@@ -1,9 +1,12 @@
 name: Jekyll site CI
 
-on: 
+on:
+  pull_request:
+    branches: 
+      - master
   push:
-    branches:
-    - master
+    branches: 
+      - master
 
 jobs:
   build:
