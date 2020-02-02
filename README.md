@@ -1,4 +1,4 @@
-# UTAU_Textbook
+# UTAText
 
 The Open Source Textbook on everything UTAU
 
