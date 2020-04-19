@@ -1,4 +1,5 @@
 # UTAText
+![Jekyll site CI](https://github.com/VocAddict/UTAText/workflows/Jekyll%20site%20CI/badge.svg)
 
 The Open Source Textbook on everything UTAU
 
