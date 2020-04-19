@@ -1,0 +1,8 @@
+bug:
+  - '(bug issue)'
+
+enhancement:
+  - '(feature request)'
+ 
+resource:
+  - '(resource submission)'
