@@ -3,6 +3,7 @@
   
   <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> <img alt="Creative Commons Plus" style="border-width:0" src="https://github.com/david-hoicka/creative-commons-plus-svg-lightweight/blob/master/creative-commons-plus-ccplus.png">
 
+
 The Open Source Textbook on everything UTAU
 
 The Table of Contents is in [./SUMMARY.md](./SUMMARY.md)
