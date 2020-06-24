@@ -1,6 +1,11 @@
+# Dependencies
+markdown:   kramdown
+
 #Setup
-title:      'The Open Source UTAU Textbook'
+title:      'UTAText: The Open Source UTAU Textbook'
 url:        https://github.com/VocAddict/UTAText
+home:       https://utatext.voxil.net
+origin:     https://utatext.voxil.net/downloads
 
 author: 
   name:     VocAddict
