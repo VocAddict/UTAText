@@ -3,29 +3,29 @@ title: "Preface"
 layout: page
 ---
 
-Welcome to *UTAText: The Open Source UTAU Textbook*, an Open VocalSynth Initiative resource. This textbook was written to increase access to high-quality learning materials at little to no cost to fans, users, and researchers alike.
+Welcome to *UTAText: The Open Source UTAU Textbook*, an {GROUP NAME} resource. This textbook was written to increase access to high-quality learning materials at little to no cost to fans, users, and researchers alike.
 
-### About Open VocalSynth Initiative   {#eip-29}
+### About {GROUP NAME}   {#eip-29}
 
-Open VocalSynth Initiative is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 20 books for college and AP courses used by hundreds of thousands of students. Our adaptive learning technology, designed to improve learning outcomes through personalized educational paths, is being piloted in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, Open VocalSynth Initiative is breaking down the most common barriers to learning and empowering students and instructors to succeed.
+{GROUP NAME} is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 20 books for college and AP courses used by hundreds of thousands of students. Our adaptive learning technology, designed to improve learning outcomes through personalized educational paths, is being piloted in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, {GROUP NAME} is breaking down the most common barriers to learning and empowering students and instructors to succeed.
 
-### About Open VocalSynth Initiative Resources   {#eip-714}
+### About {GROUP NAME} Resources   {#eip-714}
 
 #### Customization   {#eip-406}
 
-*UTAText: The Open Source UTAU Textbook* is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to Open VocalSynth Initiative and its content contributors.
+*UTAText: The Open Source UTAU Textbook* is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to {GROUP NAME} and its content contributors.
 
 Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.
 
-Instructors also have the option of creating a customized version of their Open VocalSynth Initiative book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit your book page on ovsi.org for more information.
+Instructors also have the option of creating a customized version of their {GROUP NAME} book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit your book page on utatext.voxil.net for more information.
 
 #### Errata   {#eip-270}
 
-All Open VocalSynth Initiative textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on ovsi.org. Subject matter experts review all errata suggestions. Open VocalSynth Initiative is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on ovsi.org.
+All {GROUP NAME} textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on utatext.voxil.net. Subject matter experts review all errata suggestions. {GROUP NAME} is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on utatext.voxil.net.
 
 #### Format   {#eip-626}
 
-You can access this textbook for free in web view or PDF through ovsi.org, and for a low cost in print.
+You can access this textbook for free in web view or PDF through utatext.voxil.net, and for a low cost in print.
 
 ### About *UTAText: The Open Source UTAU Textbook*
 
@@ -64,7 +64,7 @@ All chapters are broken down into multiple sections, the titles of which can be 
 
 #### Development Overview   {#eip-350}
 
-Open VocalSynth Initiative *UTAText: The Open Source UTAU Textbook* is the product of a collaborative effort by a group of dedicated authors, editors, and instructors whose collective passion for this project has resulted in a text that is remarkably unified in purpose and voice. Special thanks is due to our Lead Author, Jay Abramson of Arizona State University, who provided the overall vision for the book and oversaw the development of each and every chapter, drawing up the initial blueprint, reading numerous drafts, and assimilating field reviews into actionable revision plans for our authors and editors.
+{GROUP NAME} *UTAText: The Open Source UTAU Textbook* is the product of a collaborative effort by a group of dedicated authors, editors, and instructors whose collective passion for this project has resulted in a text that is remarkably unified in purpose and voice. Special thanks is due to our Lead Author, Jay Abramson of Arizona State University, who provided the overall vision for the book and oversaw the development of each and every chapter, drawing up the initial blueprint, reading numerous drafts, and assimilating field reviews into actionable revision plans for our authors and editors.
 
 The collective experience of our author team allowed us to pinpoint the subtopics, exceptions, and individual connections that give students the most trouble. The textbook is therefore replete with well-designed features and highlights which help students overcome these barriers. As the students read and practice, they are coached in methods of thinking through problems and internalizing mathematical processes.
 
@@ -139,11 +139,11 @@ Each chapter concludes with a review of the most important takeaways, as well as
 
 ##### Student and Instructor Resources   {#eip-656}
 
-We’ve compiled additional resources for both students and instructors, including Getting Started Guides, instructor solution manual, and PowerPoint slides. Instructor resources require a verified instructor account, which can be requested on your ovsi.org log-in. Take advantage of these resources to supplement your Open VocalSynth Initiative book.
+We’ve compiled additional resources for both students and instructors, including Getting Started Guides, instructor solution manual, and PowerPoint slides. Instructor resources require a verified instructor account, which can be requested on your utatext.voxil.net log-in. Take advantage of these resources to supplement your {GROUP NAME} book.
 
 ##### Partner Resources   {#eip-883}
 
-Open VocalSynth Initiative Partners are our allies in the mission to make high-quality learning materials affordable and accessible to students and instructors everywhere. Their tools integrate seamlessly with our Open VocalSynth Initiative titles at a low cost. To access the partner resources for your text, visit your book page on ovsi.org.
+{GROUP NAME} Partners are our allies in the mission to make high-quality learning materials affordable and accessible to students and instructors everywhere. Their tools integrate seamlessly with our {GROUP NAME} titles at a low cost. To access the partner resources for your text, visit your book page on utatext.voxil.net.
 
 ### About the Authors   {#eip-45}
 
@@ -250,7 +250,7 @@ Phil Clark, Scottsdale Community College* * *
  Allen Wolmer, Atlanta Jewish Academy* * *
 {: data-type="newline"}
 
-The following faculty contributed to the development of Open VocalSynth Initiative *Precalculus*, the text from which this product was updated and derived.* * *
+The following faculty contributed to the development of {GROUP NAME} *Precalculus*, the text from which this product was updated and derived.* * *
 {: data-type="newline"}
 
  **Precalculus Reviewers*** * *
